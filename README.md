@@ -11,8 +11,10 @@
 This is just my secondary account so I can host more projects. This is my real account --> [Maximilian Freitag account](https://github.com/MaximilianFreitag) 
 
 
-![alt text](https://imgur.com/a/g7Asp2q)
-
+<p align="center">
+  <img src="https://imgur.com/a/g7Asp2q" width="350" title="hover text">
+  
+</p>
 
 <!-- links to social media icons -->
 
