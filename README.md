@@ -8,6 +8,6 @@
 
 ## This is just my secondary account
 
-This is just my secondary account so I can host more projects. This is my real account --> [Maximilian Freitag account](https://github.com/MaximilianFreitag) 
+This is just my secondary account so I can deploy more projects on heroku and streamlit. This is my real account --> [Maximilian Freitag account](https://github.com/MaximilianFreitag) 
 
 
