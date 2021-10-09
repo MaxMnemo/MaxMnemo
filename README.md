@@ -16,6 +16,8 @@ This is just my secondary account so I can host more projects. This is my real a
   
 </p>
 
+![Text](https://imgur.com/a/g7Asp2q)
+
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
